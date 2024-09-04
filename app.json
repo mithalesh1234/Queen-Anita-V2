@@ -9,14 +9,14 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Queen_Anita-V2",
+        "value": "Mithalesh Yadav",
         "required": true
       },
   
       "WELCOME": {
         "description": "put 'false' or 'true' to enable & disable WELCOME ",
-        "value": "false",
-        "required": false
+        "value": "true",
+        "required": true
       },
       "USER_IMAGES": {
         "description": "Menu Images",
@@ -26,8 +26,8 @@
   
       "GOODBYE": {
         "description": "put 'false' or 'true' to enable & disable GOODBYE ",
-        "value": "false",
-        "required": false
+        "value": "true",
+        "required": true
       },
       "MENU": {
         "description": "choose 1, 2, 3",
