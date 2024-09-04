@@ -40,12 +40,12 @@
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "Queen_Anita-V2"
+        "value": "Hey dear👋 Jay shree krishna I am Mithalesh Yadav bot latest version ²⁰²⁴"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
-        "required": false,
-        "value": "Africa/Lagos"
+        "required": true,
+        "value": "Asia/Kolkata"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -103,7 +103,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2349066528353"
+        "value": "916207629435"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
